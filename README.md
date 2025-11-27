@@ -2,6 +2,8 @@
 
 A simple and interactive Machine Learning web app built using Streamlit to predict Rain or No Rain based on weather data.
 
+**HERE IS THE URL OF APP** : https://rainfallpredictionapp-eak8qdbewa2rib8oree6qx.streamlit.app/   
+
 🚀 Features
 
 Interactive Streamlit UI
