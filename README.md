@@ -33,10 +33,15 @@ NumPy
 Plotly
 
 📁 Project Structure
+
 📦 rainfall-prediction-app
+
  ├── streamlit_rainfall_app.py
+ 
  ├── model.pkl
+ 
  ├── requirements.txt
+ 
  └── README.md
 
 ▶️ Run Locally
